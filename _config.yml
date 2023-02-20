@@ -10,10 +10,6 @@ event_coordinator:
   name: Lily Harris
   email: Lily.Harris@austintexas.gov
   phone: 5124044209
-utility_coordinator:
-  name: Ben Hamilton
-  email: ben.hamilton@austintexas.gov
-  phone: 5124044236
 sales_manager:
   name: Jeff Kuryak
   email: jeff.kuryak@austintexas.gov
